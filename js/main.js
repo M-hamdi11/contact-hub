@@ -50,7 +50,6 @@ if(validateName()&&validatephone()&&dublicate_num()){
   phone_number.value = "";
   email_address.value = "";
   address_info.value = "";
-  group_info.value = "";
   notes_info.value = "";
   
   display();
