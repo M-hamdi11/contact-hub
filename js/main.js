@@ -51,7 +51,6 @@ if(validateName()&&validatephone()&&dublicate_num()){
   email_address.value = "";
   address_info.value = "";
   notes_info.value = "";
-  
   display();
   console.log(contacts);
 }
